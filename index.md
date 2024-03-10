@@ -5,7 +5,7 @@ layout: default
 theme: jekyll-theme-minimal
 ---
 ! [profile] (/assets/headhshots.jpeg) align: left
-## Feel free to connect with me on [LinkedIn] (www.linkedin.com/in/caitlin-schaeffer-125668153)!
+## Feel free to connect with me on [LinkedIn] (www.linkedin.com/in/caitlin-schaeffer-125668153).
 ### Was your first week what you expected? Why? Why not?
 ##### The first week of bootcamp exceeded my expectations in both workload and excitement. We dove right in to an ocean of material! 
 ### What are you excited or eager to learn more about?
