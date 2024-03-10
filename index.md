@@ -11,5 +11,10 @@ theme: jekyll-theme-minimal
 ### What are you excited or eager to learn more about?
 ##### I am excited to learn more about back end development, as it is honestly the part of web development that is a bit scary to me. 
 ### What is something about you that can only be learned by reading this blog?
-##### I would say that I am much nerdier than I may appear, and it often surprises people. I'm a big fan of things like video games, anime, fantasy novels, and DnD, I've even been a DM, *dungeon master*, for a few campaigns. Most of all, I love traveling and experiencing new cultures (and learning their language). 
+##### I would say that I am much nerdier than I may appear, and it often surprises people. I'm a big fan of things like:
+*   Video games (Play Station, Nintendo Switch, XBox, etc.)
+*   Anime (I'm up to date on One Piece, and I like shonen shows, but also love a nice slice-of-life show).
+*   Novels (I recommend *The Poppy Wars*, the *Red Rising* series, and also classical works like The Odyssey).
+*   DnD (I've even been a DM, *dungeon master*, for a few campaigns).
+Most of all, I love traveling and experiencing new cultures (and learning their language). 
 
