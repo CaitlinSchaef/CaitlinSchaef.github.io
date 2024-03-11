@@ -4,7 +4,7 @@ permalink: /
 layout: default
 theme: jekyll-theme-minimal
 ---
-! [profile](https://drive.google.com/file/d/1VoEzYSP3sk7B9zEXok2QxxhtovnHtNWn/view?usp=drive_link)
+![profile](docs/assets/css/headshots.jpeg)
 ## Feel free to connect with me on [LinkedIn](www.linkedin.com/in/caitlin-schaeffer-125668153) !
 ### Was your first week what you expected? Why? Why not?
 ##### The first week of bootcamp exceeded my expectations in both workload and excitement. We dove right in to an ocean of material! 
