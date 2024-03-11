@@ -22,3 +22,5 @@ theme: jekyll-theme-minimal
 ### Please enjoy a few pictures from the two countries I visited last year in 2023, Scotland and Japan:
 ![Scotland](docs/assets/css/DAB11812-53C9-4AFB-B670-DD01B69FC601.jpeg)
 ![Japan](docs/assets/css/IMG_7921.jpeg)
+![Scotland again](
+![Shrine](docs/assets/css/4AFF128E-C1AC-4612-BD47-23956700FE1F.jpeg)
