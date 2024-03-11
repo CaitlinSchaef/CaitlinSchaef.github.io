@@ -17,7 +17,7 @@ theme: jekyll-theme-minimal
 *   Video games (Play Station, Nintendo Switch, XBox, etc.)
 *   Anime (I'm up to date on One Piece, and I like shonen shows, but also love a nice slice-of-life show).
 *   Novels (I recommend *The Poppy Wars*, the *Red Rising* series, and also classical works like The Odyssey).
-*   DnD (I've even been a DM, *dungeon master*, for a few campaigns).
+*   DnD (I've even been a DM, ✨dungeon master✨, for a few campaigns).
 
 #### Most of all, I love traveling and experiencing new cultures (and learning their languages). 
 
