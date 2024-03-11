@@ -17,5 +17,5 @@ theme: jekyll-theme-minimal
 *   Novels (I recommend *The Poppy Wars*, the *Red Rising* series, and also classical works like The Odyssey).
 *   DnD (I've even been a DM, *dungeon master*, for a few campaigns).
 
-####Most of all, I love traveling and experiencing new cultures (and learning their language). 
+#### Most of all, I love traveling and experiencing new cultures (and learning their languages). 
 
