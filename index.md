@@ -4,7 +4,7 @@ permalink: /
 layout: default
 theme: jekyll-theme-minimal
 ---
-![profile](docs/assets/css/headshots.jpeg) =250x250
+![profile](docs/assets/css/headshots.jpeg =250x250) 
 <img align="left" width="100" height="100" src=(docs/assets/css/headshots.jpeg)>
 ![profile](docs/assets/css/headshots.jpeg =250x250)
 ## Feel free to connect with me on [LinkedIn]("www.linkedin.com/in/caitlin-schaeffer-125668153") !
