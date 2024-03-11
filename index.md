@@ -19,3 +19,6 @@ theme: jekyll-theme-minimal
 
 #### Most of all, I love traveling and experiencing new cultures (and learning their languages). 
 
+Please enjoy a few pictures from the two countries I visited last year in 2023, Scotland and Japan:
+![Scotland](docs/assets/css/DAB11812-53C9-4AFB-B670-DD01B69FC601.jpeg)
+![Japan](
