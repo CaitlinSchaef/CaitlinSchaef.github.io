@@ -12,7 +12,7 @@ theme: jekyll-theme-minimal
 ### What is something about you that can only be learned by reading this blog?
 ##### I would say that I am much nerdier than I may appear, and it often surprises people. I'm a big fan of things like:
 *   Video games (Play Station, Nintendo Switch, XBox, etc.)
-*   Anime (I'm up to date on One Piece, and I like shonen shows, but also love a nice slice-of-life show).
+*   Anime (I'm up to date on One Piece, and I like shonen shows, but also love a nice slice-of-life show, my favorite at the moment is The Apothecary Diaries {think lady Sherlock Holmes set in something like a pre-feudal Japan}).
 *   Novels (I recommend *The Poppy Wars*, the *Red Rising* series, and also classical works like The Odyssey).
 *   DnD (I've even been a DM, ✨dungeon master✨, for a few campaigns).
 
