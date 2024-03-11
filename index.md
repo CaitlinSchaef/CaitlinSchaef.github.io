@@ -4,7 +4,7 @@ permalink: /
 layout: default
 theme: jekyll-theme-minimal
 ---
-! [profile](/assets/headhshots.jpeg)
+! [profile](https://drive.google.com/file/d/1VoEzYSP3sk7B9zEXok2QxxhtovnHtNWn/view?usp=drive_link)
 ## Feel free to connect with me on [LinkedIn](www.linkedin.com/in/caitlin-schaeffer-125668153)!
 ### Was your first week what you expected? Why? Why not?
 ##### The first week of bootcamp exceeded my expectations in both workload and excitement. We dove right in to an ocean of material! 
@@ -16,5 +16,6 @@ theme: jekyll-theme-minimal
 *   Anime (I'm up to date on One Piece, and I like shonen shows, but also love a nice slice-of-life show).
 *   Novels (I recommend *The Poppy Wars*, the *Red Rising* series, and also classical works like The Odyssey).
 *   DnD (I've even been a DM, *dungeon master*, for a few campaigns).
-Most of all, I love traveling and experiencing new cultures (and learning their language). 
+
+####Most of all, I love traveling and experiencing new cultures (and learning their language). 
 
