@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 ---
 ## Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caitlin-schaeffer-125668153) !
 
-## March 11, 2024
+## Week of March 11, 2024
 ### What is something you wish you could do but currently do not have the coding skills to accomplish?
 #### I would really like to be better able to organize a website. Making it have a great user experience and good flow would be fantastic. I am going to practice by restructuring this blog!
 
@@ -19,7 +19,7 @@ theme: jekyll-theme-minimal
 ### What methods do you use to help yourself get unstuck?
 #### I think the best method for getting unstuck is to try and broaden the scope of what you're looking at. Often, problems are symptomatic of a breakdown somewhere else, so it is good to try and think of the bigger picture. 
 
-## March 4, 2024
+## Week of March 4, 2024
 ### Was your first week what you expected? Why? Why not?
 ##### The first week of bootcamp exceeded my expectations in both workload and excitement. We dove right in to an ocean of material! 
 ### What are you excited or eager to learn more about?
