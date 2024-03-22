@@ -6,6 +6,13 @@ theme: jekyll-theme-minimal
 ---
 ## Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caitlin-schaeffer-125668153) !
 
+## Week of March 18, 2024
+### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
+#### I 
+
+### What are some objects that your blog incorporates?
+#### I 
+
 ## Week of March 11, 2024
 ### What is something you wish you could do but currently do not have the coding skills to accomplish?
 #### I would really like to be better able to organize a website. Making it have a great user experience and good flow would be fantastic. I am going to practice by restructuring this blog!
