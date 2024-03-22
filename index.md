@@ -8,10 +8,10 @@ theme: jekyll-theme-minimal
 
 ## Week of March 18, 2024
 ### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
-#### I 
+#### I think that I'm starting to see how everything comes together, which makes it less scary. Coming in with no real coding experience means that there was just oceans of information. There're still oceans but I think I could name at least one now.
 
 ### What are some objects that your blog incorporates?
-#### I 
+#### My blog incorporates pictures (which I think would be considered objects?). This question honestly confuses me a little, as our blogs so far don't have any javascript aspects. 
 
 ## Week of March 11, 2024
 ### What is something you wish you could do but currently do not have the coding skills to accomplish?
