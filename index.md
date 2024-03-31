@@ -6,6 +6,16 @@ theme: jekyll-theme-minimal
 ---
 ## Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caitlin-schaeffer-125668153) !
 
+## Week of March 25, 2024
+### What was helpful during Onboarding working remotely?
+#### I think the program being more flexible while we're going through a lot of information is helpful, so that we can read and participate as we are able.
+
+### What hindered your progress during Onboarding?
+#### Working my job as a teacher while Onboarding was going on was most definitely challenging thing. 
+
+### How did you overcome challenges during Onboarding?
+#### Trying to be cognizant of timing and timelines, doing things again and again, and eventually learning when to ask for help. 
+
 ## Week of March 18, 2024
 ### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
 #### I think that I'm starting to see how everything comes together, which makes it less scary. Coming in with no real coding experience means that there was just oceans of information. There're still oceans but I think I could name at least one now.
