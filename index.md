@@ -6,6 +6,17 @@ theme: jekyll-theme-minimal
 ---
 ## Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caitlin-schaeffer-125668153) !
 
+## Week of April 1, 2024 - Sprint 1
+### What is the number one thing that held you back this week? Why?
+#### I think that the only thing holding me back right now is my limited scope of knowledge. I started coding 5 weeks ago, at the beginning of March 2024. Being in the 5th week of the program encompasses the full range of my knowledge. 
+
+### What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+#### I think that I would like to learn more functions of JavaScript, and continue to refine my understanding of functions, variables, and other components. 
+
+### What is your “Why”?
+#### My 'why' is developing a career in a field I'm interested in, that will allow me to live the kind of life I find fulfilling. 
+
+
 ## Week of March 25, 2024
 ### What was helpful during Onboarding working remotely?
 #### I think the program being more flexible while we're going through a lot of information is helpful, so that we can read and participate as we are able.
