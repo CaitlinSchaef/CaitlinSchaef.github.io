@@ -1,1 +1,19 @@
-css
+
+body {
+    background-image: url("../docs/assets/css/berlinEdit.JPG");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #d0d1d5;
+    background-size: cover;
+/* attachment is what let you wrap it to the screen properly */
+    background-attachment: fixed;
+    overflow: hidden;
+
+    font-family: basco-std, serif;
+    font-style: normal;
+    font-weight: 800;
+}
+
+h1 {
+    font-style: bold;
+}
