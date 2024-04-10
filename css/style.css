@@ -12,8 +12,20 @@ body {
     font-family: basco-std, serif;
     font-style: normal;
     font-weight: 800;
+    color: #3e685d;
 }
 
 h1 {
     font-style: bold;
+    font-size: 82px;
+}
+
+img {
+    border-radius: 50%;
+    background-color:#d0d1d5;
+    border-color: #51897a;
+    padding: 20px;
+    height: 400px;
+    width: 400px;
+  
 }
