@@ -15,17 +15,21 @@ body {
     color: #3e685d;
 }
 
+.headShot {
+    justify-content: center;
+    align-items: center;
+}
+
 h1 {
     font-style: bold;
     font-size: 82px;
 }
 
 img {
-    border-radius: 50%;
-    background-color:#d0d1d5;
+
     border-color: #51897a;
     padding: 20px;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
   
 }
