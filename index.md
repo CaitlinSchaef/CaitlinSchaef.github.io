@@ -7,6 +7,20 @@ theme: jekyll-theme-minimal
 ## Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caitlin-schaeffer-125668153) !
 ## Let's connect: [Contact me here](https://caitlinschaef.github.io/contact.html)!
 
+## Week of April 8, 2024 - Sprint 2
+### What did you learn about that helped you understand the development process?
+#### I think learning about APIs was just another level of abstraction to learn. Not only are we learning how to code, but we are learning *how* the things we will develop work and how they fit into the overall flow of the web.
+
+### What does it mean to develop good code?
+#### I think good code has two really big indicators: is it human-readable and is it flexible? If code can be easily understood by other developers, it is easier to work with. If it is flexible, it is easy to add to or take away from, and would in theory develop more easily.
+
+### What does it mean to be a good developer?
+#### I think good developers are agile, curious, and humble. 
+
+### What is one thing that programmers hate doing?
+#### I'm not sure yet! I will come back to this question near the end of the program.
+
+
 ## Week of April 1, 2024 - Sprint 1
 ### What is the number one thing that held you back this week? Why?
 #### I think that the only thing holding me back right now is my limited scope of knowledge. I started coding 5 weeks ago, at the beginning of March 2024. Being in the 5th week of the program encompasses the full range of my knowledge. 
