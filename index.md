@@ -5,7 +5,7 @@ layout: default
 theme: jekyll-theme-minimal
 ---
 ## Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caitlin-schaeffer-125668153) !
-## Visit my contact card here: [Contact card](https://caitlinschaef.github.io/contact.html)
+## Let's connect: [Contact me here](https://caitlinschaef.github.io/contact.html)!
 
 ## Week of April 1, 2024 - Sprint 1
 ### What is the number one thing that held you back this week? Why?
