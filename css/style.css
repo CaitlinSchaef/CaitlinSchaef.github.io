@@ -1,3 +1,8 @@
+html, body {
+    height: 100vh;
+    width: 100vw;
+    max-width: 100vw;
+}
 
 body {
     background-image: url("../docs/assets/css/berlinEdit.JPG");
@@ -32,4 +37,30 @@ img {
     height: 300px;
     width: 300px;
   
+}
+
+#email {
+    background-color: #d0d1d5;
+}
+
+#linkedIn {
+    background-color: #d0d1d5;
+    fill: #51897a;
+}
+
+#gitHub {
+    background-color: #d0d1d5;
+}
+
+#headShot {
+    max-width: 300px;
+}
+
+#mainBodyRow, #infoRow {
+    margin-right: 0!important;
+    margin-left: 0!important;
+}
+
+.imageGreen {
+    background-color: #51897a;
 }
