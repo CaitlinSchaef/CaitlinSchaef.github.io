@@ -28,6 +28,7 @@ body {
 h1 {
     font-style: bold;
     font-size: 82px;
+    text-shadow: 3px 3px 3px #d0d1d5;
 }
 
 img {
@@ -39,17 +40,29 @@ img {
   
 }
 
+/* #iconRow {
+    background-color: #d0d1d5;
+    padding: auto;
+    margin: auto;
+    border-radius: 5%;
+} */
+
 #email {
     background-color: #d0d1d5;
+    padding: auto;
+    margin: 20px
 }
 
 #linkedIn {
     background-color: #d0d1d5;
-    fill: #51897a;
+    padding: auto;
+    margin: 30px
 }
 
 #gitHub {
     background-color: #d0d1d5;
+    padding: auto;
+    margin: 20px
 }
 
 #headShot {
