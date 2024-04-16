@@ -1,5 +1,5 @@
 body {
-    background-image: url("../img/tokyoShrine.jpeg");
+    background-image: url("../img/universityEdity.JPG"); 
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #d0d1d5;
@@ -11,7 +11,11 @@ body {
     font-family: basco-std, serif;
     font-style: normal;
     font-weight: 800;
-    color: #3e685d;
+
+}
+
+.navbar {
+    
 }
 
 .gold {
