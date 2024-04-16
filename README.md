@@ -1,0 +1,1 @@
+# Moved index.md to the auxiliary folder, move blog posts from there.

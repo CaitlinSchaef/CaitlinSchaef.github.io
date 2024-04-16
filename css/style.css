@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-    background-image: url("../docs/assets/css/berlinEdit.JPG");
+    background-image: url("../img/berlinEdit.JPG");
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #d0d1d5;
@@ -28,7 +28,7 @@ body {
 h1 {
     font-style: bold;
     font-size: 82px;
-    text-shadow: 3px 3px 0px #d0d1d5;
+    text-shadow: 2px 2px 0px #518475;
 }
 
 img {
