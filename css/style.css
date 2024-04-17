@@ -24,9 +24,10 @@ body {
     background-attachment: fixed;
     overflow: hidden;
 
-    font-family: basco-std, serif;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
     font-style: normal;
-    font-weight: 800;
     color: #3e685d;
 }
 
