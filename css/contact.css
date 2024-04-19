@@ -26,19 +26,20 @@ body {
         font-optical-sizing: auto;
         font-weight: 400;
         font-style: normal;
-        margin-bottom: 20px;
+        /* margin-bottom: 20px; */
     }
 
     h1 {
+        font-family: "Platypi", serif;
         font-style: bold;
         font-size: 82px;
         text-shadow: 2px 2px 0px #518475;
     }
     
     img {
-    
-        border-color: #51897a;
-        padding: 20px;
+        border-style: solid;
+        border-color: #c0c0c0;
+        /* padding: 20px; */
         height: 300px;
         width: 300px;
       
@@ -74,4 +75,8 @@ body {
 
 .imageGreen {
     background-color: #51897a;
+}
+
+.icon-link {
+    text-decoration: none;
 }
