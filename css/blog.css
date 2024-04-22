@@ -42,6 +42,13 @@ body {
   color: #f6f4e6;
 }
 
+#blogPost {
+    background-color: #f6f4e6;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    color: #21301e;
+}
+
 img {
 
     border-color: #a8a6a8;
