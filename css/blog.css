@@ -1,0 +1,53 @@
+/*
+Hex codes from floral background:
+dark green from leaf : #21301e
+white grey from flower: #a8a6a8
+black from in between bushes: #040603 
+*/
+
+
+
+.platypi-regular {
+    font-family: "Platypi", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body {
+  background-image: url("../img/BWfloralBG.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #f6f4e6;
+  background-size: cover;
+    /* attachment is what let you wrap it to the screen properly */
+  background-attachment: fixed;
+  overflow: hidden;
+  font-family: "Platypi", serif;
+  font-weight: 400;
+  font-style: normal;
+  overflow: scroll;
+    }
+
+.navbar {
+    background-color: #223025be;
+    color: #f6f4e6;
+    text-decoration: none;
+}
+
+.navbar-brand {
+  color: #f6f4e6;
+}
+
+.nav-link {
+  color: #f6f4e6;
+}
+
+img {
+
+    border-color: #a8a6a8;
+    border-style: solid;
+    border-width: 7px;
+    height: auto;
+    width: 300px;
+  
+  }
