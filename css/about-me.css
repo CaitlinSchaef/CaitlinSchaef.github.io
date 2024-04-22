@@ -1,0 +1,10 @@
+
+.gold {
+color: linear-gradient(45deg, #d4af37 5%, #debc5b 10%, #e7c97c 30%, #efd69d 50%, #e7c97c 70%, #debc5b 80%, #d4af37 95%);
+}
+
+
+/* Very important note:
+to change the fill color of a bootstrap icon, you have to change it from the svg file
+then in the 'fill' part I made it "fill="gold"", after making a .gold in CSS
+*/
